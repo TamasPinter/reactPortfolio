@@ -1,23 +1,17 @@
-import React from 'react';
-import AboutMe from './components/aboutMe';
-import Projects from './components/projects';
-import Contact from './components/contact';
-import Footer from './components/footer';
+import { useState } from 'react';
+import Home from './components/home';
 import Header from './components/header';
-import navBar from './components/navBar';
-import './App.css';
+import Footer from './components/footer';
 
 function App() {
+    const [page, setPage] = useState('about me');
     return (
-        <div className="App">
-            <navBar />
-            <Header />
-            <AboutMe />
-            <Projects />
-            <Contact />
+        <div className='App'>
+            <Header setPage={setPage} page={page} />
+            <Home page={page} />
             <Footer />
         </div>
-    );
-}
+    )
+};
 
 export default App;
