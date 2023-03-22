@@ -4,6 +4,7 @@
   --medium-pink: #C65D7B;
   --dark-pink: #874356;
   --grey: #4a4a4a;
+  --neon: #00ff00;
 }
 
 html {
@@ -24,6 +25,15 @@ main {
 p,
 a {
   margin: 5px;
+}
+
+.boxes:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px 10px var(--neon);
+  transition: all 0.5s ease-in-out;
+  
+  
+
 }
 
 .row {
