@@ -1,17 +1,6 @@
-import { useState } from 'react';
-import Home from './components/home';
-import Header from './components/header';
-import Footer from './components/footer';
+import React from 'react';
+import PortfolioContainer from './portfolioContainer';
 
-function App() {
-    const [page, setPage] = useState('about me');
-    return (
-        <div className='App'>
-            <Header setPage={setPage} page={page} />
-            <Home page={page} />
-            <Footer />
-        </div>
-    )
-};
+const App = () => <PortfolioContainer />;
 
 export default App;

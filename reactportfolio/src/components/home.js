@@ -4,19 +4,33 @@ import Projects from "./projects";
 import Contact from "./contact";
 import Resume from "./resume";
 
+// function Home ({ page })  {
+//   switch (page) {
+//     case "about me":
+//         return <AboutMe />;
+//     case "projects":
+//         return <Projects />;   
+//     case "contact":
+//         return <Contact />;
+//     case "resume":
+//         return <Resume />;
+//     default:
+//         return <AboutMe />;
+//   }
+// }
+
 function Home({ page }) {
-  switch (page) {
-    case "about me":
+    if (page === "about me") {
         return <AboutMe />;
-    case "projects":
-        return <Projects />;   
-    case "contact":
+    } else if (page === "projects") {
+        return <Projects />;
+    } else if (page === "contact") {
         return <Contact />;
-    case "resume":
+    } else if (page === "resume") {
         return <Resume />;
-    default:
+    } else {
         return <AboutMe />;
-  }
+    }
 }
 
 export default Home;
