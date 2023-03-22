@@ -1,6 +1,7 @@
 import React from "react";
 import github from "../Assets/github.png";
 import linkedin from "../Assets/linkdin.png";
+import instagram from "../Assets/insta.png";
 
 
 function Footer() {
@@ -11,6 +12,9 @@ function Footer() {
         </a>
         <a href="https://www.linkedin.com/in/tamas-pinter-2876b026a/">
           <img src={linkedin} alt="Find me on linkedin" height="100" width="100" />
+        </a>
+        <a href="https://www.instagram.com/tomas_was_here_/">
+          <img src={instagram} alt="Follow me on Instagram" height="100" width="100" />
         </a>
      
       <div class="text-center">
