@@ -10,6 +10,12 @@ import ArcadeImg from "../Assets/Arcade.gif";
 function Projects() {
   const data = [
     {
+      title: "Cafe Du Lait",
+      imageLink: SocialImg,
+      activeLink: "https://cafe-au-lait.herokuapp.com/",
+      repoLink: "https://github.com/porteous89/cafe-au-lait"
+    },
+    {
       title: "Freshest Tomatoes",
       imageLink: TomatoesImg,
       activeLink: "https://project-2-fresh-tomatoes.herokuapp.com/",
@@ -26,12 +32,6 @@ function Projects() {
       imageLink: TextImg,
       activeLink: "https://mysterious-stream-67239.herokuapp.com/",
       repoLink: "https://github.com/TamasPinter/Text_EditorPWA",
-    },
-    {
-      title: "Social Media Backend",
-      imageLink: SocialImg,
-      activeLink: "https://github.com/TamasPinter/socialMedia",
-      repoLink: "https://github.com/TamasPinter/socialMedia",
     },
     {
       title: "Employee Database Backend",
