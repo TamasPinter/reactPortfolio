@@ -29,8 +29,10 @@ a {
 
 .boxes:hover {
   transform: scale(1.1);
-  box-shadow: 0 0 10px 10px var(--neon);
+  box-shadow: 0 0 5px 5px var(--neon);
   transition: all 0.5s ease-in-out;
+  height: 65px;
+  width: 200px;
 }
 
 .row {
@@ -116,4 +118,11 @@ a {
 .bioBlurb {
   text-indent: 50px;
   font-size: 20px;
+}
+
+.proficiencies {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
 }
