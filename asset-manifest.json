@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.05ab8f79.css",
-    "main.js": "/reactportfolio/static/js/main.7021c8e4.js",
-    "static/media/database2.gif": "/reactportfolio/static/media/database2.bf798e6b428ab8ba507e.gif",
-    "static/media/Tech.gif": "/reactportfolio/static/media/Tech.db7aa3272d5981e5d54b.gif",
-    "static/media/TamasPinter.jpg": "/reactportfolio/static/media/TamasPinter.72a5461a96129a44c99b.jpg",
-    "static/media/Hack.gif": "/reactportfolio/static/media/Hack.61cefd26581c03707619.gif",
-    "static/media/Nano.gif": "/reactportfolio/static/media/Nano.5d4aed5f1f43dd009b53.gif",
-    "static/media/coding.gif": "/reactportfolio/static/media/coding.aae64adfa8454c6a12dc.gif",
-    "static/media/matrix.jpg": "/reactportfolio/static/media/matrix.2d8931d8c468a7061c07.jpg",
-    "static/media/insta.png": "/reactportfolio/static/media/insta.35f16fc3d1d82c4faadf.png",
-    "static/media/Arcade.gif": "/reactportfolio/static/media/Arcade.9cdc9572b779317f999a.gif",
-    "static/media/ResumePDF.pdf": "/reactportfolio/static/media/ResumePDF.cb1721d5aadb57030f8f.pdf",
-    "index.html": "/reactportfolio/index.html",
-    "main.05ab8f79.css.map": "/reactportfolio/static/css/main.05ab8f79.css.map",
-    "main.7021c8e4.js.map": "/reactportfolio/static/js/main.7021c8e4.js.map"
+    "main.css": "/reactPortfolio/static/css/main.05ab8f79.css",
+    "main.js": "/reactPortfolio/static/js/main.902e1389.js",
+    "static/media/database2.gif": "/reactPortfolio/static/media/database2.bf798e6b428ab8ba507e.gif",
+    "static/media/Tech.gif": "/reactPortfolio/static/media/Tech.db7aa3272d5981e5d54b.gif",
+    "static/media/TamasPinter.jpg": "/reactPortfolio/static/media/TamasPinter.72a5461a96129a44c99b.jpg",
+    "static/media/Hack.gif": "/reactPortfolio/static/media/Hack.61cefd26581c03707619.gif",
+    "static/media/Nano.gif": "/reactPortfolio/static/media/Nano.5d4aed5f1f43dd009b53.gif",
+    "static/media/coding.gif": "/reactPortfolio/static/media/coding.aae64adfa8454c6a12dc.gif",
+    "static/media/matrix.jpg": "/reactPortfolio/static/media/matrix.2d8931d8c468a7061c07.jpg",
+    "static/media/insta.png": "/reactPortfolio/static/media/insta.35f16fc3d1d82c4faadf.png",
+    "static/media/Arcade.gif": "/reactPortfolio/static/media/Arcade.9cdc9572b779317f999a.gif",
+    "static/media/ResumePDF.pdf": "/reactPortfolio/static/media/ResumePDF.cb1721d5aadb57030f8f.pdf",
+    "index.html": "/reactPortfolio/index.html",
+    "main.05ab8f79.css.map": "/reactPortfolio/static/css/main.05ab8f79.css.map",
+    "main.902e1389.js.map": "/reactPortfolio/static/js/main.902e1389.js.map"
   },
   "entrypoints": [
     "static/css/main.05ab8f79.css",
-    "static/js/main.7021c8e4.js"
+    "static/js/main.902e1389.js"
   ]
 }
