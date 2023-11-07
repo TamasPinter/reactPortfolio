@@ -46,7 +46,7 @@ function AboutMe() {
               create dynamic results and proper outputs for their needs. I enjoy
               both front end planning and back end construction on these
               projects. Please feel free to have a look and don't be afraid to
-              reach out with any questions or comments!
+              reach out with any questions or comments.
             </p>
           </p>
         </div>
