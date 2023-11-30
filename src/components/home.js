@@ -1,7 +1,7 @@
 import React from "react";
 import AboutMe from "./aboutMe";
 import Projects from "./projects";
-import Contact from "./contact";
+
 import Resume from "./resume";
 
 function Home({ page }) {
@@ -9,8 +9,6 @@ function Home({ page }) {
     return <AboutMe />;
   } else if (page === "projects") {
     return <Projects />;
-  } else if (page === "contact") {
-    return <Contact />;
   } else if (page === "resume") {
     return <Resume />;
   } else {

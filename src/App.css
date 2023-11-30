@@ -132,3 +132,67 @@ a {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+@media screen and (max-width: 768px) {
+  header {
+    font-size: 30px;
+  }
+
+  main {
+    width: 95%;
+  }
+
+  .profilePic {
+    width: 100%; /* Make the profile picture responsive */
+    height: auto; /* Allow the height to adjust proportionally */
+  }
+
+  .bioBlurb {
+    text-indent: 20px; /* Adjust the text indentation for better readability */
+    font-size: 16px; /* Adjust font size for smaller screens */
+  }
+}
+
+/* Media query for screens between 768px and 1024px width */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  header {
+    font-size: 35px;
+  }
+
+  main {
+    width: 90%;
+  }
+
+  .profilePic {
+    width: 80%; /* Adjust the profile picture size */
+    height: auto;
+  }
+
+  .bioBlurb {
+    text-indent: 30px;
+    font-size: 18px; /* Adjust font size */
+  }
+
+  /* Adjust styles for your Projects component if necessary */
+}
+
+/* Media query for screens 1025px and wider */
+@media screen and (min-width: 1025px) {
+  header {
+    font-size: 40px;
+  }
+
+  main {
+    width: 85%;
+  }
+
+  .profilePic {
+    width: 300px; /* Reset width for larger screens if desired */
+    height: 400px;
+  }
+
+  .bioBlurb {
+    text-indent: 50px;
+    font-size: 20px;
+  }
+}
