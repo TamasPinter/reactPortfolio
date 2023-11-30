@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.0aec8a4a.css",
-    "main.js": "/reactPortfolio/static/js/main.99f37da0.js",
+    "main.css": "/reactPortfolio/static/css/main.b28ba231.css",
+    "main.js": "/reactPortfolio/static/js/main.b82fb3f4.js",
     "static/media/database2.gif": "/reactPortfolio/static/media/database2.bf798e6b428ab8ba507e.gif",
     "static/media/Tech.gif": "/reactPortfolio/static/media/Tech.db7aa3272d5981e5d54b.gif",
     "static/media/TamasPinter.jpg": "/reactPortfolio/static/media/TamasPinter.72a5461a96129a44c99b.jpg",
@@ -13,11 +13,11 @@
     "static/media/Arcade.gif": "/reactPortfolio/static/media/Arcade.9cdc9572b779317f999a.gif",
     "static/media/ResumePDF.pdf": "/reactPortfolio/static/media/ResumePDF.cb1721d5aadb57030f8f.pdf",
     "index.html": "/reactPortfolio/index.html",
-    "main.0aec8a4a.css.map": "/reactPortfolio/static/css/main.0aec8a4a.css.map",
-    "main.99f37da0.js.map": "/reactPortfolio/static/js/main.99f37da0.js.map"
+    "main.b28ba231.css.map": "/reactPortfolio/static/css/main.b28ba231.css.map",
+    "main.b82fb3f4.js.map": "/reactPortfolio/static/js/main.b82fb3f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aec8a4a.css",
-    "static/js/main.99f37da0.js"
+    "static/css/main.b28ba231.css",
+    "static/js/main.b82fb3f4.js"
   ]
 }
